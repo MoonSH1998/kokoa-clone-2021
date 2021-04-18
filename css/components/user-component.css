@@ -1,0 +1,6 @@
+.user-component {
+  text-align: center;
+}
+.user-component__coulmn :first -child {
+  display: flex;
+}
