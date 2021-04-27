@@ -9,3 +9,15 @@
   color: white;
   font-weight: 600;
 }
+.nav__notification3 {
+  background-color: tomato;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  display: flex;
+  position: absolute;
+  right: -5px;
+  top: -32px;
+  color: white;
+  font-weight: 600;
+}
